@@ -4,6 +4,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: relative;
+    background: linear-gradient(black, transparent);
 	font-family: 'Roboto', sans-serif;
 	text-align: center;
 
