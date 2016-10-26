@@ -1,0 +1,26 @@
+body {
+	text-align: center;
+    background-image: url("hero_find.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	font-color: white;
+
+}
+
+h1 { font-size: 24px;
+	font-weight: bolder; 
+	text-align: center;
+	}
+p { font-size: 16px; }
+
+ul 
+
+li {font-weight: bold;}
+
+img {}
+
+#slogan {
+	font-style: italic;
+}
