@@ -14,7 +14,10 @@ h1 { font-size: 24px;
 	}
 p { font-size: 16px; }
 
-ul 
+ul {
+    text-align: center;
+    list-style-type: none;
+}
 
 li {font-weight: bold;}
 
