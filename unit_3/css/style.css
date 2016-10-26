@@ -6,22 +6,26 @@ body {
     background-position: relative;
 	font-family: 'Roboto', sans-serif;
 	text-align: center;
-	color: white;
 
 }
 
-h1 { font-size: 24px;
+h1 { color: white;
+	font-size: 24px;
 	font-weight: bolder; 
 	text-align: center;
 	}
-p { font-size: 16px; }
+p { 
+	color: white;
+	font-size: 16px; }
 
-ul {
+ul { color: white;
     text-align: center;
     list-style-type: none;
 }
 
-li {font-weight: bold;}
+li { color: white;
+	font-weight: bold;
+}
 
 img 
 
