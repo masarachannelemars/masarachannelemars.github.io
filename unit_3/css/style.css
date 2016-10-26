@@ -1,7 +1,7 @@
 body {
 	text-align: center;
 	background: url("https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=74553159742c7cf05c6eb04baabc408cs")
-    background-size: cover;
+    background-size: 80%;
     background-repeat: no-repeat;
     background-position: center;
 	font-family: 'Roboto', sans-serif;
@@ -23,7 +23,9 @@ ul {
 
 li {font-weight: bold;}
 
-img {}
+img 
+
+}
 
 #slogan {
 	font-style: italic;
